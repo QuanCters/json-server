@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "npm install && npx json-server db.json"
+    "dev": "npx json-server db.json",
+    "build": "npm install"
   },
   "keywords": [],
   "author": "",
