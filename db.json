@@ -1,0 +1,42 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "username": "Tony Stark",
+      "password": "11111111",
+      "access_token": ""
+    },
+    {
+      "id": 2,
+      "username": "Peter Parker",
+      "password": "22222222",
+      "access_token": ""
+    },
+    {
+      "id": 3,
+      "username": "Gwen Stacy",
+      "password": "33333333",
+      "access_token": ""
+    }
+  ],
+  "SPSO": [
+    {
+      "id": 1,
+      "username": "Thanos",
+      "password": "44444444",
+      "access_token": ""
+    },
+    {
+      "id": 2,
+      "username": "Thor",
+      "password": "5555555",
+      "access_token": ""
+    },
+    {
+      "id": 3,
+      "username": "Doctor Strange",
+      "password": "66666666",
+      "access_token": ""
+    }
+  ]
+}
