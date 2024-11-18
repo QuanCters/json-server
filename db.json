@@ -1,42 +1,40 @@
 {
-  "student": [
+  "students": [
     {
-      "id": 1,
-      "username": "Tony Stark",
+      "id": "1",
+      "email": "tonystark@gmail.com",
       "password": "11111111",
-      "access_token": ""
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMDAwMCIsImlhdCI6MTczMTkxMDUwNCwiZXhwIjoxNzMxOTE0MTA0fQ.Mn9hp1ZhIWTBB8oFhhijZAaqyS8xu-IsaGjA7z1qPb0"
     },
     {
-      "id": 2,
-      "username": "Peter Parker",
-      "password": "22222222",
-      "access_token": ""
+      "id": "2",
+      "email": "peterparker@gmail.com",
+      "password": "22222222"
     },
     {
-      "id": 3,
-      "username": "Gwen Stacy",
-      "password": "33333333",
-      "access_token": ""
+      "id": "3",
+      "email": "gwenstacy@gmail.com",
+      "password": "33333333"
     }
   ],
-  "SPSO": [
+  "SPSOs": [
     {
       "id": 1,
       "username": "Thanos",
       "password": "44444444",
-      "access_token": ""
+      "access_token": "12345"
     },
     {
       "id": 2,
       "username": "Thor",
       "password": "5555555",
-      "access_token": ""
+      "access_token": "35213"
     },
     {
       "id": 3,
       "username": "Doctor Strange",
       "password": "66666666",
-      "access_token": ""
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMDAwMCIsImlhdCI6MTczMTkwNzAyMiwiZXhwIjoxNzMxOTEwNjIyfQ.NocsayCCJnRM-lX-0jEg3p7Las9YIKM7JELtGDm0kKw"
     }
   ]
 }
