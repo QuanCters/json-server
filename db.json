@@ -36,5 +36,13 @@
       "password": "66666666",
       "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMDAwMCIsImlhdCI6MTczMTkwNzAyMiwiZXhwIjoxNzMxOTEwNjIyfQ.NocsayCCJnRM-lX-0jEg3p7Las9YIKM7JELtGDm0kKw"
     }
+  ],
+  "printers": [
+    {
+      "id": 1,
+      "name": "Printer 0",
+      "location": "here",
+      "status": "Out of milk"
+    }
   ]
 }
