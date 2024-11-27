@@ -42,7 +42,8 @@
       "id": 1,
       "name": "Printer 0",
       "location": "here",
-      "status": "Out of milk"
+      "status": "Disable",
+      "condition": "Out of ink"
     }
   ],
   "apikeys": [
@@ -50,6 +51,24 @@
       "id": 1,
       "key": "4bab98e77c4344bbc7f0677359d051f6cae3d81676397c26454d1be93da5ab559b7fa08f83e907b2abcd73672cdca722c47c0fb377f278cce6e4b75788422048",
       "permissions": "1111"
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "studentID": "2212999",
+      "printerID": "012345",
+      "fileName": "howtobreath.txt",
+      "startTime": "2024-11-27",
+      "endTime": "2024-11-27",
+      "totalPages": 1,
+      "pageSize": "A4"
+    }
+  ],
+  "manage-system": [
+    {
+      "id": 1,
+      "pageBalance": 50
     }
   ]
 }
