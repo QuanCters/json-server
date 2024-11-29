@@ -83,16 +83,25 @@
       "id": 1,
       "studentID": "2212999",
       "printerID": "012345",
-      "fileName": "howtobreath.txt",
-      "date": "2024-11-27",
-      "totalPages": 1,
-      "pageSize": "A4"
+      "printerName": "Printer 1",
+      "documentId": 1,
+      "documentName": "howtobreath.txt",
+      "pageType": "A4",
+      "paymentAmount": 4,
+      "timestamp": "2024-11-27"
     }
   ],
   "manage-system": [
     {
       "id": 1,
       "defaultPageBalance": 50
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "pageCount": 4,
+      "fileName": "howtobreath.txt"
     }
   ]
 }
