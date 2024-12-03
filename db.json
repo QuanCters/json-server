@@ -4,7 +4,7 @@
       "id": "1",
       "email": "tonystark@gmail.com",
       "password": "11111111",
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMDAwMCIsImlhdCI6MTczMTkxMDUwNCwiZXhwIjoxNzMxOTE0MTA0fQ.Mn9hp1ZhIWTBB8oFhhijZAaqyS8xu-IsaGjA7z1qPb0",
+      "access_token": "",
       "pageBalance": 196
     },
     {
@@ -41,7 +41,7 @@
       "id": 3,
       "email": "doctorstrange@gmail.com",
       "password": "66666666",
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMDAwMCIsImlhdCI6MTczMTkwNzAyMiwiZXhwIjoxNzMxOTEwNjIyfQ.NocsayCCJnRM-lX-0jEg3p7Las9YIKM7JELtGDm0kKw",
+      "access_token": "",
       "x-api-key": "dff550d8f85f8f0cc1f6d228d3c2e846ca189c01e007f547af6a043244b8cf33"
     }
   ],
@@ -49,6 +49,9 @@
     {
       "id": 1,
       "name": "Printer 1",
+      "brand": "HP",
+      "model": "LaserJet Pro M404n",
+      "description": "A high-speed monochrome laser printer for professional use.",
       "location": "here",
       "status": "Online",
       "condition": "Good"
@@ -56,6 +59,9 @@
     {
       "id": 2,
       "name": "Printer 2",
+      "brand": "Canon",
+      "model": "PIXMA G6020",
+      "description": "All-in-one printer with wireless printing and high page yield.",
       "location": "404H4",
       "status": "Offline",
       "condition": "Out of oil"
