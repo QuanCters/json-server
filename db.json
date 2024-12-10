@@ -3,6 +3,7 @@
     {
       "id": "1",
       "email": "tonystark@gmail.com",
+      "name": "Tony Stark",
       "password": "ee79976c9380d5e337fc1c095ece8c8f22f91f306ceeb161fa51fecede2c4ba1",
       "access_token": "",
       "pageBalance": 196
@@ -10,6 +11,7 @@
     {
       "id": "2",
       "email": "peterparker@gmail.com",
+      "name": "Peter Parker",
       "password": "33a7d3da476a32ac237b3f603a1be62fad00299e0d4b5a8db8d913104edec629",
       "access_token": "",
       "pageBalance": 200
@@ -17,6 +19,7 @@
     {
       "id": "3",
       "email": "gwenstacy@gmail.com",
+      "name": "Gwen Stacy",
       "password": "afb47e00531153e93808589e43d02c11f6398c5bc877f7924cebca8211c8dd18",
       "access_token": "",
       "pageBalance": 0
@@ -26,6 +29,7 @@
     {
       "id": 1,
       "email": "thanos@gmail.com",
+      "name": "Thanos",
       "password": "b3c4b40750a97212e8981e4ac494d1ec77053f1eaf4e0934c276b74fc4f87c48",
       "access_token": "",
       "x-api-key": "d13e1d6c6028031f557b2c06e9c05e877fb5680c8f0ac5647c825a7d5c510400"
@@ -33,6 +37,7 @@
     {
       "id": 2,
       "email": "thor@gmail.com",
+      "name": "Thor",
       "password": "8783b7dff7a7109035e8df613232d21b3f4a4aa532fb8f53d1059046814dc657",
       "access_token": "",
       "x-api-key": "5f4d55c695a92c7a8b1e65832069929c215d8e23ef7f1b6494c89b042e8c6bff"
@@ -40,6 +45,7 @@
     {
       "id": 3,
       "email": "doctorstrange@gmail.com",
+      "name": "Strange",
       "password": "cf1aa821ddabafa6a16212eba3805fbcff92c6fc981d43967e1fca8657f8571c",
       "access_token": "",
       "x-api-key": "dff550d8f85f8f0cc1f6d228d3c2e846ca189c01e007f547af6a043244b8cf33"
